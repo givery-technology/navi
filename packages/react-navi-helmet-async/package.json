@@ -1,6 +1,6 @@
 {
   "name": "react-navi-helmet-async",
-  "version": "0.15.0",
+  "version": "0.15.1",
   "description": "Use react-helmet-async to render your Navi routes' title and head.",
   "author": "James K Nelson <james@jamesknelson.com>",
   "license": "MIT",
@@ -28,9 +28,9 @@
     "head"
   ],
   "peerDependencies": {
-    "navi": "^0.14.0",
-    "react": "^16.8.0",
-    "react-navi": "^0.14.0"
+    "navi": "^0.15.0",
+    "react": ">=^16.8.0",
+    "react-navi": "^0.15.0"
   },
   "dependencies": {
     "@types/react-helmet": "^5.0.8",
