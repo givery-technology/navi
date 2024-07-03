@@ -28,17 +28,17 @@
     "head"
   ],
   "peerDependencies": {
-    "navi": "^0.14.0",
+    "navi": "file: ../navi",
     "react": "^16.8.0",
-    "react-navi": "^0.14.0"
+    "react-navi": "file: ../react-navi"
   },
   "dependencies": {
     "@types/react-helmet": "^5.0.8",
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
-    "navi": "^0.15.0",
-    "react-navi": "^0.15.0"
+    "navi": "file: ../navi",
+    "react-navi": "file: ../react-navi"
   },
   "homepage": "https://frontarm.com/navi/",
   "repository": {
