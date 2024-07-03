@@ -11,6 +11,12 @@
   <a href="https://travis-ci.org/frontarm/navi"><img alt="Build" src="https://travis-ci.org/frontarm/navi.svg?branch=master"></a>
 </p>
 
+```
+Note: forked from navi and based on @topmonks fork of navi. 
+Updated to fix peerDependences build issues on node >16.
+Monorepo: Needs to be published to npm as a new package to enable adding @givery-technology/react-navi and @givery-technology/react-navi-helmet-async as dependencies.
+```
+
 **Navi is an *unmaintained* JavaScript library for declaratively mapping URLs to asynchronous content.**
 
 It comes with:
